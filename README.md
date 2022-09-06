@@ -15,12 +15,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMB8dTPh8u)
 
 ---
-### Discord Status 
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<594253446870335552>)
-
----
----
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
