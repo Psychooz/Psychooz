@@ -3,13 +3,13 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" />
 
-## I'm a Software Enginee rStudent
+## I'm a Software Enginer Student
 
 - 🌱 I am experienced in Python / Discord.js / (C-C++)[Still leaning more] , currently practising/learning HTML and CSS and I'm starting Java in the future.
 - ### About me :
 - 🌐 Website : [Here](https://ziadpsycho.space/)
 - 📫 What is the best way to contact me? [Discord](https://discord.io/ziadpsycho)
-- 😄 I don't much about myself.
+- 😄 I don't know much about myself.
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](hhttps://twitter.com/Psy_cho_z)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMB8dTPh8u)
