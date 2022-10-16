@@ -25,7 +25,6 @@
 ---
 
 <!--START_SECTION:waka-->
-**Total![visitor no](https://visitor-badge.glitch.me/badge?page_id=86485110&left_color=red&right_color=black)**
 ```text
 Status Right Now : Being Lazy
 ```
