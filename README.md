@@ -30,7 +30,7 @@ With experience in several programming languages, including Python, C, HTML/CSS,
 
 <!--START_SECTION:waka-->
 ```text
-Status Right Now : Being Lazy
+Status Right Now : Being Lazy :)
 ```
 
 ---
