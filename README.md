@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" />
 
-## I'm a Software Enginer Student
+## I'm a Software Enginer
 
 - 🌱 I am a 19-year-old computer science major currently in my second year of university. 
 With experience in several programming languages, including Python, C, HTML/CSS, JavaScript, and Node.js, I am constantly expanding my knowledge and skills. I am   currently learning Java and advanced JavaScript techniques to further broaden my expertise.
