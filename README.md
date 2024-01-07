@@ -5,15 +5,15 @@
 
 ## I'm a Software Enginer
 
-- 🌱 I am a 20-year-old computer science major currently in my second year of university. 
-With experience in several programming languages, including Python, C, HTML/CSS, JavaScript, and Node.js, I am constantly expanding my knowledge and skills. I am   currently learning Java and advanced JavaScript techniques to further broaden my expertise.
+- 🌱 I am a 20-year-old computer science major currently in my third year of university. 
+With experience in several programming languages, including Python, C/C++, HTML/CSS, JavaScript/PHP, SQL/PL-SQL, and Node.js, I am constantly expanding my knowledge and skills. I am currently learning Java and advanced JavaScript techniques to further broaden my expertise.
 
   In addition to my technical abilities, I have built a diverse range of projects, including games, plugins for games, and scripts. I have also gained experience selling and hosting Discord bots on my website. My track record of successful projects showcases my strong attention to detail, motivation, and technical expertise.
 
   As a passionate and motivated programmer, I am excited to continue growing in the field of computer science. I am eager to apply my skills and experience to new challenges and collaborate with others to build innovative solutions.
 - ### About me :
-- 🌐 Website : [Here](https://ziadpsycho.space/)
-- 📫 What is the best way to contact me? [Discord](https://discord.io/ziadpsycho)
+- 🌐 Website : [Here](https://ziad-psycho-space.vercel.app/)
+- 📫 What is the best way to contact me? [Discord](https://discord.gg/qqWwep6Eng)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](hhttps://twitter.com/Psy_cho_z)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QMB8dTPh8u)
