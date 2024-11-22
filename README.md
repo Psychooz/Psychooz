@@ -24,7 +24,7 @@ With experience in several programming languages, including Python, C/C++, HTML/
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vs7iqciyttygtpavyk76c6llfu&cover_image=true&theme=default&bar_color=af39b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vs7iqciyttygtpavyk76c6llfu&cover_image=true&theme=default&bar_color=af39b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
