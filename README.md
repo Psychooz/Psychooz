@@ -37,8 +37,7 @@ Status Right Now : Being Lazy :)
 
 <!--END_SECTION:waka-->
 ### Github Stats
-[![trophy](https://github-readme-stats-ziad.vercel.app/?username=Psychooz&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-![Simpleboy353's GitHub stats](https://github-readme-stats-ziad.vercel.app/api?username=Psychooz&show_icons=true&theme=radical)
+![Simpleboy353's GitHub stats](https://github-readme-stats-ziad.vercel.app/api?username=Psychooz&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats-ziad.vercel.app/api/top-langs/?username=Psychooz)](https://github.com/anuraghazra/github-readme-stats)
 
 
