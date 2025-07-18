@@ -38,7 +38,7 @@ Status Right Now : Being Lazy :)
 <!--END_SECTION:waka-->
 ### Github Stats
 ![Simpleboy353's GitHub stats](https://github-readme-stats-ziad.vercel.app/api?username=Psychooz&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats-ziad.vercel.app/api/top-langs/?username=Psychooz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ziad.vercel.app/api/top-langs/?username=Psychooz)](https://github.com/Psychooz)
 
 
 
